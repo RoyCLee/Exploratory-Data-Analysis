@@ -1,4 +1,4 @@
-##  plot1.R
+##  plot4.R
 
 ##  Roy Lee
 ##  08-MAR-2015
